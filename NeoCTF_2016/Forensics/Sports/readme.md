@@ -1,0 +1,1 @@
+Upload to https://29a.ch/photo-forensics/#noise-analysis. You can see something in the soccer ball. A bit of adjusting gives flag{S0cc3r_1s_d@_b0mb}

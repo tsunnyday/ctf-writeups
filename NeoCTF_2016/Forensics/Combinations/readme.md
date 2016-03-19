@@ -1,0 +1,1 @@
+Simply opening up the gif in Gimp gives us flag{C0MB1N3_D1S}

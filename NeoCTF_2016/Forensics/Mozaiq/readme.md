@@ -1,0 +1,1 @@
+I tried googling the title, Mozaiq. Turns out its a stego thing. http://mozaiq.org/decrypt. The problem description said no password, so I just uploaded the image, and flag{0BSCUR3_InN0} 

@@ -1,0 +1,1 @@
+Pretty easy obfuscation problem. flag{REkt_1s_tHee_fllaagg}
